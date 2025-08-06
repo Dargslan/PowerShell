@@ -65,9 +65,8 @@ If you’d like to collaborate, link to Dargslan, or suggest new titles, reach o
 ## 🔗 Stay Connected
 
 - 📚 Website: [https://dargslan.com](https://dargslan.com)  
-- 🐦 Twitter/X: [@dargslan_books](https://twitter.com/dargslan_books)  
-- 📌 Pinterest: [@dargslan](https://www.pinterest.com/dargslan)  
-- 💬 Reddit: [r/PowerShell](https://www.reddit.com/r/PowerShell/)
+- 🐦 Twitter/X: [@dargslan_books](https://x.com/DargslanX)   
+- 💬 Reddit: [r/PowerShell](https://www.reddit.com/r/Dargslan/)
 
 ---
 
